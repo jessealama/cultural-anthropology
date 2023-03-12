@@ -2,7 +2,7 @@
 
 (define collection "cultural-anthropology")
 
-(define version "1.0.0")
+(define version "1.0")
 
 (define deps
   (list "auxiliary-macro-context"
